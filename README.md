@@ -1,5 +1,5 @@
 # Recipe Helper
-####  Have to ever had something in your fridge and/or pantry and wondered what you make with it? With this website, you can search for recipes that ingredients you already have.
+####  Have to ever had something in your fridge and/or pantry and wondered what to make with it? With this website, you can search for recipes that use ingredients you already have.
 [Deployed Website](https://recipe-helper-14aaf.web.app)
 
 
