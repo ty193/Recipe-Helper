@@ -1,0 +1,32 @@
+.space {
+	margin-bottom: 1rem;
+}
+
+hr.rounded {
+	border-top: 8px solid #bbb;
+	border-radius: 5px;
+	margin-bottom: 6rem;
+}
+
+.list {
+	opacity: 0;
+}
+
+.image {
+	border-radius: 5%;
+	box-shadow: 10px 5px 5px gray;
+	border: 1px solid #bbb;
+}
+
+.title {
+	font-size: 1.5rem;
+}
+
+.header {
+	font-size: 1.25rem;
+	font-weight: bold;
+}
+
+.ingredients {
+	margin-top: 50px;
+}
