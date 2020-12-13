@@ -4,7 +4,7 @@
 
 
 ## Features
-On this website you can search for ingredients one at a time and then select the ingredient you are looking for from a list of options. The ingredients you select are added to list of ingredient that are used to search for recipes. I did it this way to make sure a user can select the correct ingredient. For example, if a user searched for "tomatoes", that could be regular tomatoes or grape tomatoes and a user could use the wrong one by mistake. This way eliminates that proplem.
+On this website you can search for ingredients one at a time and then select the ingredient you are looking for from a list of options. The ingredients you select are added to list of ingredient that are used to search for recipes. I did it this way to make sure a user can select the correct ingredient. For example, if a user searched for "tomatoes", that could be regular tomatoes or grape tomatoes and a user could add the wrong one by mistake. This way eliminates that proplem.
 
 ## Technology stack
 - React
